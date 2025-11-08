@@ -1,0 +1,17 @@
+[33mcommit c3d524a5674e7c284a57584e91375852cb1ec3dd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Zeynab <zeynabgomar.1385@gmail.com>
+Date:   Sat Nov 8 20:31:59 2025 +0330
+
+    print hello
+
+[33mcommit c1c31206441efcd91570fcb215677595f908d99a[m
+Author: Zeynab <zeynabgomar.1385@gmail.com>
+Date:   Sat Nov 8 20:30:00 2025 +0330
+
+    second comment
+
+[33mcommit 305535f46a9ef94548604cc1a8fde59d84e482c5[m
+Author: Zeynab <zeynabgomar.1385@gmail.com>
+Date:   Sat Nov 8 20:21:40 2025 +0330
+
+    first commit
